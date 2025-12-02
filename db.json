@@ -1,26 +1,26 @@
 {
-		"MESSAGE_TYPE": "S",
-		"MESSAGE": "Successfully list open survey",
-		"DATA": {
-			"survey_open": 2,
-			"survey_data": [
-				{
-					"id": 1,
-					"uuid": "001-001-001-001",
-					"title": "Survey Kepuasan Karyawan",
-					"status": "Sedang Di isi",
-					"start_date": "2025-12-01",
-					"end_date": "2025-12-05"
-				},
-				{
-					"id": 2,
-					"uuid": "002-002-002-002",
-					"title": "Survey Makanan Kantin",
-					"status": "Belum Di isi",
-					"start_date": "2025-12-01",
-					"end_date": "2025-12-05"
-				}
-			]
-		}
+	"MESSAGE_TYPE": "S",
+	"MESSAGE": "Successfully list open survey",
+	"DATA": {
+		"survey_open": 2,
+		"survey_data": [
+			{
+				"id": 1,
+				"uuid": "001-001-001-001",
+				"title": "Survey Kepuasan Karyawan",
+				"status": "Sedang Di isi",
+				"start_date": "2025-12-01",
+				"end_date": "2025-12-05"
+			},
+			{
+				"id": 2,
+				"uuid": "002-002-002-002",
+				"title": "Survey Makanan Kantin",
+				"status": "Belum Di isi",
+				"start_date": "2025-12-01",
+				"end_date": "2025-12-05"
+			}
+		]
+	}
 }
 	
