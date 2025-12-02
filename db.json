@@ -1,6 +1,4 @@
 {
-	"MESSAGE_TYPE": "S",
-	"MESSAGE": "Successfully list open survey",
 	"DATA": {
 		"survey_open": 2,
 		"survey_data": [
