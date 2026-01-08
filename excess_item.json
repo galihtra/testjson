@@ -1,0 +1,141 @@
+{
+    "MESSAGE_TYPE": "S",
+    "MESSAGE": "Success",
+    "DATA": {
+        "length": 140,
+        "records": [
+            {
+                "id": "O5yVO",
+                "actual_qty": 0,           
+                "asset_number": "123",
+                "category": "non_asset_equipment",
+                "company_id": {
+                    "id": "6Pqdr",
+                    "name": "PT. SAT NUSAPERSADA Tbk"
+                },
+                "completed_on": "",
+                "condition": 0.8,
+                "condition_remarks": "Masih Bagus",
+                "cost_center_id": null,
+                "create_date": "2025-12-03 10:07:27",
+                "create_uid": "rZyRW",
+                "currency_id": {
+                    "id": "jO85W",
+                    "name": "USD",
+                    "symbol": "US$"       
+                },
+                "department_id": {
+                    "id": "OoDYW",
+                    "code": "DS18",
+                    "name": "DESAY SV"
+                },
+                "description": "Keyboard DS 1",  
+                "discrepancies": false,
+                "equipment_number": "",
+                "excess_reason_id": {
+                    "id": "rmMMr",
+                    "name": "LAPTOP"
+                },
+                "extension": "",
+                "group": "it_equipment",
+                "item_id": "Keyboard001",
+                "location_id": {
+                    "id": "6Pqdr",
+                    "description": "Pabrik 1 Lantai 9999",
+                    "name": "SN-P01-L01"
+                },
+                "material_description": "",
+                "material_number": "",
+                "name_id": {
+                    "id": "rM01W",
+                    "name": "keyboard"
+                },
+                "original_qty": 1,
+                "pending": false,
+                "photo": "/api/image/28/excess.item/O5yVO/photo",
+                "price_estimation": 0,       
+                "published_by_id": "Oy35r",
+                "published_on": "2025-11-03 00:00:00",
+                "reference_id": "gPdyO",
+                "reference_no": "DS18-25120001",
+                "remarks": "",
+                "state": "published",
+                "status": "active",
+                "submitted_by_id": "rZyRW",
+                "submitted_on": "2025-12-03 10:07:32",
+                "uom_id": {
+                    "id": "6Pqdr",
+                    "name": "UNIT"
+                },
+                "write_date": "2025-12-31 04:50:50",
+                "write_uid": "ONZ4O"
+            },
+            {
+                "id": "rzv1r",
+                "actual_qty": 0,
+                "asset_number": "",
+                "category": "asset_equipment",
+                "company_id": {
+                    "id": "6Pqdr",
+                    "name": "PT. SAT NUSAPERSADA Tbk"
+                },
+                "completed_on": "",
+                "condition": 0.9,
+                "condition_remarks": "BAGUS",
+                "cost_center_id": null,
+                "create_date": "2025-12-04 05:00:51",
+                "create_uid": "rZyRW",
+                "currency_id": {
+                    "id": "jO85W",
+                    "name": "USD",
+                    "symbol": "US$"
+                },
+                "department_id": {
+                    "id": "OvnqO",
+                    "code": "AT11",
+                    "name": "ATI"  
+                },
+                "description": "Keyboard 1",
+                "discrepancies": false,
+                "equipment_number": "",
+                "excess_reason_id": {
+                    "id": "W03NO",
+                    "name": "SuVir"
+                },
+                "extension": "",
+                "group": "facility_equipment",
+                "item_id": "Keyboard-001",
+                "location_id": {
+                    "id": "6Pqdr",
+                    "description": "Pabrik 1 Lantai 9999",
+                    "name": "SN-P01-L01"
+                },
+                "material_description": "",
+                "material_number": "",
+                "name_id": {
+                    "id": "rM01W",
+                    "name": "keyboard"
+                },
+                "original_qty": 1,
+                "pending": false,
+                "photo": "/api/image/28/excess.item/rzv1r/photo",  
+                "price_estimation": 0,
+                "published_by_id": "Oy35r",
+                "published_on": "2025-11-03 00:00:00",
+                "reference_id": "6Pqdr",
+                "reference_no": "AT11-25120001",
+                "remarks": "",
+                "state": "published",
+                "status": "active",
+                "submitted_by_id": "rZyRW",
+                "submitted_on": "2025-12-04 05:00:51",
+                "uom_id": {
+                    "id": "6Pqdr",
+                    "name": "UNIT"
+                },
+                "write_date": "2025-12-19 03:33:27",
+                "write_uid": "OVvMO"
+            }
+        ]
+    }
+}
